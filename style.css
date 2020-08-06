@@ -1,0 +1,21 @@
+.btn {
+    padding: .255rem .45rem;
+}
+.custom-select{
+   max-width: 250px;
+}
+.grayCircle {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.greenCircle {
+    height: 15px;
+    width: 15px;
+    background-color: #7CFC00;
+    border-radius: 50%;
+    display: inline-block;
+}
